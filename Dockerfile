@@ -1,1 +1,1 @@
-FROM gkswjdzz/gpt-2-large-serving
+FROM gkswjdzz/gpt-2-large-length-1
